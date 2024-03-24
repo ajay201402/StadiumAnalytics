@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SensorEventTracker", "SensorEventTracker.csproj", "{D1D49AF9-6C43-4106-9F94-BDF0CFD68C93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1D49AF9-6C43-4106-9F94-BDF0CFD68C93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1D49AF9-6C43-4106-9F94-BDF0CFD68C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1D49AF9-6C43-4106-9F94-BDF0CFD68C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1D49AF9-6C43-4106-9F94-BDF0CFD68C93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {961061E3-1B96-41D0-916C-F0E643431B1C}
+	EndGlobalSection
+EndGlobal
